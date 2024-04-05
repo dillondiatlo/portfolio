@@ -39,17 +39,17 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: 👋 Hi, there! I'm Dillon 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
     content:
-      title: Skills
+      title: My Super Powers
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
-      columns: '1'
+      columns: '2'
   - block: experience
     content:
       title: Experience
@@ -62,20 +62,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+        - title: Data Scientist | Apprentice
+          company: General Assembly
+          company_url: 'https://generalassemb.ly/students/courses/data-science-bootcamp/new-york-city'
+          company_logo: org-ga
+          location: New York, NY
+          date_start: '2024-01-23'
+          date_end: '2024-04-17'
           description: |2-
-              Responsibilities include:
+              600+ hours of a fully-immersive data science program.
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
+              * 24 labs
+              * 6 presentations
+              * 6 stakeholder interviews
+        - title: Senior Copywriter
           company: University X
           company_url: ''
           company_logo: org-x
@@ -98,32 +98,32 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://www.codecademy.com/profiles/ToubleDrouble/certificates/5b55e668646caa552f8e4d1d
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
+          date_start: '2023-11-08'
           description: Formulated informed blockchain models, hypotheses, and use cases.
           icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          organization: Codecademy
+          organization_url: https://www.codecademy.com
+          title: Code Foundations Skill Path
+          url: ''
+        - certificate_url: https://www.codecademy.com/profiles/ToubleDrouble/certificates/11a686a7fd57b8c214f7f92749388d42
+          date_end: ''
+          date_start: '2023-10-31'
           description: ''
           icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: Codecademy
+          organization_url: https://www.codecademy.com
+          title: 'Learn How to Code Course'
+          url: ''
+        - certificate_url: https://www.coursera.org
+          date_end: ''
+          date_start: '2023-09-13'
+          description: ''
+          icon: linkedin
+          organization: LinkedIn
+          organization_url: https://www.coursera.org
+          title: How to Research and Write Using Generative AI Tools
           url: ''
     design:
       columns: '2'
@@ -171,24 +171,26 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: NLP
+          tag: NLP
+        - name: Time Series
+          tag: time
+        - name: Neural Networks
+          tag: NN
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: Gallery
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="demo" >}}
+  #   design:
+  #     columns: '1'
   - block: collection
     id: featured
     content:
@@ -200,30 +202,30 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: |-
+  #       {{% callout note %}}
+  #       Quickly discover relevant content by [filtering publications](./publication/).
+  #       {{% /callout %}}
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: true
+  #   design:
+  #     columns: '2'
+  #     view: citation
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     columns: '2'
+  #     view: compact
   - block: tag_cloud
     content:
       title: Popular Topics
