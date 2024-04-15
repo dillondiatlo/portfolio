@@ -1,6 +1,6 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: NLP & Sentiment Analysis
+summary: Are Swimmers or Runners happier? Let's hook into Reddit's API, download 10k+ datapoints, build a bespoke dataframe, and find out.
 tags:
   - Demo
 date: "2016-04-27T00:00:00Z"

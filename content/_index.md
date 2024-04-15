@@ -65,7 +65,7 @@ sections:
         - title: Data Scientist | Apprentice
           company: General Assembly
           company_url: 'https://generalassemb.ly/students/courses/data-science-bootcamp/new-york-city'
-          company_logo: org-ga
+          company_logo: ga
           location: New York, NY
           date_start: '2024-01-23'
           date_end: '2024-04-17'
@@ -76,13 +76,26 @@ sections:
               * 6 presentations
               * 6 stakeholder interviews
         - title: Senior Copywriter
-          company: University X
+          company: Code & Theory
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: ct
+          location: New York, NY
+          date_start: '2022-06-01'
+          date_end: '2023-08-01'
+          description: |2-
+              Analyzed data to optimize client-website copy, information hierarchies, and UX modules.
+
+              * Clients: Amazon, Microsoft, Morgan Stanley, Pfizer, Baron Capital, Simplif, +
+        - title: Verbal Designer
+          company: R/GA
+          company_url: ''
+          company_logo: rga
+          location: New York, NY
+          date_start: '2020-03-01'
+          date_end: '2022-05-01'
+          description: |2-
+              Researched and extrapolated data from 50+ client competitors to build strategic brand identities for 12+ clients. 
+              * Clients: Cigna, The XFL, Google, Covenant House, Racetrack, +
     design:
       columns: '2'
   - block: accomplishments
@@ -102,7 +115,7 @@ sections:
           date_end: ''
           date_start: '2023-11-08'
           description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
+          icon: codey
           organization: Codecademy
           organization_url: https://www.codecademy.com
           title: Code Foundations Skill Path
@@ -111,7 +124,7 @@ sections:
           date_end: ''
           date_start: '2023-10-31'
           description: ''
-          icon: datacamp
+          icon: codey
           organization: Codecademy
           organization_url: https://www.codecademy.com
           title: 'Learn How to Code Course'
@@ -127,33 +140,33 @@ sections:
           url: ''
     design:
       columns: '2'
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
+  # - block: collection
+  #   id: posts
+  #   content:
+  #     title: Recent Posts
+  #     subtitle: ''
+  #     text: ''
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       folders:
+  #         - post
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: compact
+  #     columns: '2'
   - block: portfolio
     id: projects
     content:

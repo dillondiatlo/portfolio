@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Fare Forecaster | Save Time, Make Money
+summary: 212M rows of data. 87% explained variability. 1 proprietary app that unlocks which taxi zone, grouped by NYC borough, will deliver the highest average fare - by the minute.
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
