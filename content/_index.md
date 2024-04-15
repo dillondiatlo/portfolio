@@ -8,7 +8,7 @@ sections:
   - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
-      title: Hugo Academic Theme
+      title: Data Dillon
       image:
         filename: hero-academic.png
       cta:
@@ -181,15 +181,15 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: NLP
-          tag: NLP
-        - name: Time Series
-          tag: time
-        - name: Neural Networks
-          tag: NN
+      # buttons:
+      #   - name: All
+      #     tag: '*'
+      #   - name: NLP
+      #     tag: NLP
+      #   - name: Time Series
+      #     tag: time
+      #   - name: Neural Networks
+      #     tag: NN
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
