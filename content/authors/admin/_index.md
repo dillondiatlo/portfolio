@@ -31,7 +31,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Machine Learning
   - Artificial Intelligence
-  - Information Retrieval
+  - Prediction and Forecasting
 
 # Education to show in About widget
 education:
@@ -131,5 +131,5 @@ social:
 highlight_name: true
 ---
 
-I thrive at the intersection of data and interpretation. Having pivoted to Data Science&mdash;after 10+ years in the Advertising Industry&mdash;my toolset of specialized analytic techniques is matched only by the meaningful interpretations I build from them. As a Data Scientist, I hope to drive impact with an innovative, in-house team that collaborates to propel our company forward.
+Having pivoted to Data Science&mdash;after 10+ years in the Advertising Industry&mdash;my toolset of specialized analytic techniques is matched only by the meaningful interpretations I build from them. As a Data Scientist, I hope to drive impact with an innovative, in-house team that collaborates to propel our company forward.
 {style="text-align: justify;"}
