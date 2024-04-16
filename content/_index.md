@@ -246,13 +246,13 @@ sections:
   #     columns: '2'
   - block: contact
     id: contact
+    enableEmoji: true
     content:
-      title: Say Hello
+      title: Say Hello!
       subtitle:
-      text: |-
-        Go ahead, ask me a question about my work.
+      'Fill out the form and I'll get back to you ASAP :incoming_envelope:'
       # Contact (add or remove contact options as necessary)
-      email: dillondiatlo@gmail.com
+      # email: dillondiatlo@gmail.com
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       address:
@@ -292,7 +292,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
       columns: '2'
 ---
