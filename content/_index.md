@@ -249,7 +249,7 @@ sections:
     content:
       title: Say Hello!
       subtitle:
-      'Fill out the form and I'll get back to you ASAP 📨'
+      'Fill out the form and I'll get back to you ASAP'
       # Contact (add or remove contact options as necessary)
       # email: dillondiatlo@gmail.com
       #phone: 888 888 88 88
