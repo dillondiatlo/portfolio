@@ -131,5 +131,5 @@ social:
 highlight_name: true
 ---
 
-Having pivoted to Data Science&mdash;after 10+ years in the Advertising Industry&mdash;my toolset of specialized analytic techniques is matched only by the meaningful interpretations I build from them. As a Data Scientist, I hope to drive impact with an innovative, in-house team that collaborates to propel our company forward.
+A data scientist with 10+ years of Advertising Industry experience, I thrive at the intersection of analytic technique and creative interpretation. Machine learning is a company's lifeblood. And through  creative and careful feature engineering, I hope to drive impact on an innovative, in-house team.
 {style="text-align: justify;"}
