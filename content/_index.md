@@ -44,7 +44,7 @@ sections:
       username: admin
   - block: skills
     content:
-      title: My Super Powers
+      title: Super Powers
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
@@ -70,7 +70,7 @@ sections:
           date_start: '2024-01-23'
           date_end: '2024-04-17'
           description: |2-
-              600+ hours of a fully-immersive data science program.
+              700+ hours of a fully-immersive data science program.
 
               * 24 labs
               * 6 presentations
@@ -114,7 +114,7 @@ sections:
         - certificate_url: https://www.codecademy.com/profiles/ToubleDrouble/certificates/5b55e668646caa552f8e4d1d
           date_end: ''
           date_start: '2023-11-08'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
+          description: ''
           icon: codey
           organization: Codecademy
           organization_url: https://www.codecademy.com
@@ -135,7 +135,7 @@ sections:
           description: ''
           icon: linkedin
           organization: LinkedIn
-          organization_url: https://www.coursera.org
+          organization_url: https://www.linkedin.com/in/dillondiatlo/details/certifications/1708788553721/single-media-viewer/?profileId=ACoAAAPxvBoBpP2J2nAegIj4Q_1UhF7m3OY8g_E
           title: How to Research and Write Using Generative AI Tools
           url: ''
     design:

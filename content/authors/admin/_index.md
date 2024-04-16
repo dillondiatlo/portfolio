@@ -56,7 +56,7 @@ skills:
         percent: 90
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Tabeau
         description: ''
         percent: 90
         icon: chart-line
@@ -66,10 +66,10 @@ skills:
         percent: 80
         icon: database
         icon_pack: fas
-      - name: public speaking
+      - name: Machine Learning
         description: ''
-        percent: 95
-        icon: database
+        percent: 90
+        icon: robot
         icon_pack: fas
   - name: Fun
     color: '#eeac02'
@@ -78,22 +78,22 @@ skills:
       - name: Drawing
         description: ''
         percent: 65
-        icon: person-hiking
+        icon: palette
         icon_pack: fas
-      - name: Reading
+      - name: Hazel
         description: ''
         percent: 100
-        icon: camera-retro
+        icon: dog
         icon_pack: fas
       - name: Writing
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: pen-fancy
         icon_pack: fas
       - name: Gardening
         description: ''
         percent: 90
-        icon: cat
+        icon: seedling
         icon_pack: fas
         
 

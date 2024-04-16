@@ -1,16 +1,18 @@
 ---
-title: Predicting Successful Songs
-summary: Which features make a Spotify song successful?
+title: Fare Forecaster | Save Time, Make Money
+summary: 212M rows of data. 87% explained variability. 1 proprietary app that unlocks which taxi zone, grouped by NYC borough, will deliver the highest average fare - by the minute.
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
+date: '2024-04-15'
+
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/dillondiatlo/successful-spotify-song-features
+external_link: https://github.com/dillondiatlo/capstone
 
 image:
   caption: gif by Dillon Diatlo
   focal_point: Smart
+
 
 # links:
 #   - icon: twitter
@@ -27,7 +29,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-# slides: example
+#slides: example
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
