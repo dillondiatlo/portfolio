@@ -246,11 +246,10 @@ sections:
   #     columns: '2'
   - block: contact
     id: contact
-    enableEmoji: true
     content:
       title: Say Hello!
       subtitle:
-      'Fill out the form and I'll get back to you ASAP :incoming_envelope:'
+      'Fill out the form and I'll get back to you ASAP 📨'
       # Contact (add or remove contact options as necessary)
       # email: dillondiatlo@gmail.com
       #phone: 888 888 88 88
