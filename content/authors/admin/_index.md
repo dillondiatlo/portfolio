@@ -129,6 +129,7 @@ social:
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
 ---
 
 A data scientist with 10+ years of Advertising Industry experience, I thrive at the intersection of analytic technique and creative interpretation. Machine learning is a company's lifeblood. And through  inventive and careful feature engineering, I hope to drive impact on an innovative, in-house team.

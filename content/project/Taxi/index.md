@@ -5,7 +5,6 @@ tags:
   - Deep Learning
 date: '2024-04-15'
 
-
 # Optional external URL for project (replaces project detail page).
 #external_link: https://github.com/dillondiatlo/capstone
 
@@ -65,7 +64,6 @@ In the world of NYC for-hire vehicle drivers, high-fare trips are few and far be
 
 ## Original Data Source
 <https://data.cityofnewyork.us/Transportation/2022-High-Volume-FHV-Trip-Records/g6pj-fsah/about_data>
-
 
 ## Executive Summary
 
