@@ -36,9 +36,6 @@ image:
 # Fare Forecaster: Save Time, Make Money
 By Dillon Diatlo
 
-![Illustration by Dillon Diatlo](fareforcaster.png)
-
-
 ## Problem Statement
 
 In the world of NYC for-hire vehicle drivers, high-fare trips are few and far between. But maybe they don't have to be. The objective of this experiment is to sample 212 million rows of data from 2022 NYC cab trips to predict––by borough and time––which taxi zones will have on average the highest paying trips. Exploring features such as request time, weather, trip duration, date, and many more, the hope is to expose patterns contributing to high-fare rides in order to enable NYC drivers to optimize their time and make the most money possible. 
