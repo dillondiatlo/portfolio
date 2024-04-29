@@ -56,15 +56,15 @@ skills:
         percent: 90
         icon: python
         icon_pack: fab
-      - name: Tabeau
-        description: ''
-        percent: 90
-        icon: chart-line
-        icon_pack: fas
       - name: SQL
         description: ''
-        percent: 80
+        percent: 90
         icon: database
+        icon_pack: fas
+      - name: Tableau
+        description: ''
+        percent: 80
+        icon: chart-line
         icon_pack: fas
       - name: Machine Learning
         description: ''
