@@ -62,6 +62,16 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Data-driven Copy Analyst
+          company: Freelance
+          #company_url: 'https://generalassemb.ly/students/courses/data-science-bootcamp/new-york-city'
+          company_logo: icon
+          location: New York, NY
+          date_start: '2023-08-01'
+          date_end: ''
+          description: |2-
+              * Leveraging 10+ years in marketing to provide data-driven insights into copywriting and designs
+              * Collaborated with Pentagram to edit pharmaceutical-giant Pfizer's 600+ brand style guide
         - title: Data Scientist | Apprentice
           company: General Assembly
           company_url: 'https://generalassemb.ly/students/courses/data-science-bootcamp/new-york-city'
