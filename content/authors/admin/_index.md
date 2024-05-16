@@ -132,7 +132,9 @@ highlight_name: true
 
 ---
 
-A data scientist with 10+ years of Advertising Industry experience, I thrive at the intersection of analytic technique and creative interpretation. Machine learning is a company's lifeblood. And through inventive and careful feature engineering, I hope to drive impact on an innovative, in-house team.
+A data scientist with 10+ years of Advertising Industry experience – I am a bridge between data and creativity. As a Data Scientist, I combine my decade-plus in B2B and B2C advertising with top-notch machine learning skills in Python, SQL, Tableau, predictive modeling, data analysis, and so much more.
+
+Bring me onto your in-house team and together we'll leverage data-driven insights to dominate the industry.
 
 Check out the Streamlit app I built that can predict where the highest taxi fare will be in any given NYC borough, at any minute: https://fareforecaster.streamlit.app/
 
