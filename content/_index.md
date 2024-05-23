@@ -123,7 +123,7 @@ sections:
       items:
         - certificate_url: https://www.codecademy.com/profiles/ToubleDrouble/certificates/6c152bd262967f8c941c9707ed636bda
           date_end: ''
-          date_start: '2025-05-21'
+          date_start: '2024-05-21'
           description: ''
           icon: codey
           organization: Codecademy
