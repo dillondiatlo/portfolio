@@ -62,7 +62,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Data-driven Copy Analyst
+        - title: Copy Analyst
           company: Freelance
           #company_url: 'https://generalassemb.ly/students/courses/data-science-bootcamp/new-york-city'
           company_logo: icon
@@ -71,7 +71,7 @@ sections:
           date_end: ''
           description: |2-
               * Leveraging 10+ years in marketing to provide data-driven insights into copywriting and designs
-              * Collaborated with Pentagram to edit pharmaceutical-giant Pfizer's 600+ brand style guide
+              * Collaborated with Pentagram to analyze and optimize Pfizer's 600+ brand style guide
         - title: Data Scientist | Apprentice
           company: General Assembly
           company_url: 'https://generalassemb.ly/students/courses/data-science-bootcamp/new-york-city'
@@ -80,7 +80,7 @@ sections:
           date_start: '2024-01-23'
           date_end: '2024-04-17'
           description: |2-
-              700+ hours of a fully-immersive data science program.
+              Completed 700+ hours of expert-led instruction in machine learning and statistical analysis, as well as hands-on learning in predictive modeling, data visualization, and AI fundamentals.
 
               * 24 labs
               * 6 presentations
@@ -121,6 +121,15 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: https://www.codecademy.com/profiles/ToubleDrouble/certificates/6c152bd262967f8c941c9707ed636bda
+          date_end: ''
+          date_start: '2025-05-21'
+          description: ''
+          icon: codey
+          organization: Codecademy
+          organization_url: https://www.codecademy.com
+          title: Learn Python 3
+          url: ''
         - certificate_url: https://www.codecademy.com/profiles/ToubleDrouble/certificates/5b55e668646caa552f8e4d1d
           date_end: ''
           date_start: '2023-11-08'
