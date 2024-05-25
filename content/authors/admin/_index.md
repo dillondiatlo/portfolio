@@ -53,47 +53,47 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 90
+        percent: 92
         icon: python
         icon_pack: fab
       - name: SQL
         description: ''
-        percent: 90
+        percent: 89
         icon: database
         icon_pack: fas
-      - name: Tableau
+      - name: Data Viz & Tableau
         description: ''
-        percent: 80
+        percent: 91
         icon: chart-line
         icon_pack: fas
-      - name: Machine Learning
+      - name: ETL
         description: ''
         percent: 90
         icon: robot
         icon_pack: fas
-  - name: Fun
+  - name: Soft Skills
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Drawing
+      - name: Public Speaking
         description: ''
-        percent: 65
-        icon: palette
+        percent: 96
+        icon: microphone-lines
         icon_pack: fas
-      - name: Hazel
+      - name: Simplifying Technical Concepts
         description: ''
-        percent: 100
-        icon: dog
+        percent: 96
+        icon: shapes
         icon_pack: fas
-      - name: Writing
+      - name: Adaptability
         description: ''
-        percent: 80
-        icon: pen-fancy
+        percent: 97
+        icon: route
         icon_pack: fas
-      - name: Gardening
+      - name: Cross-functional Collaboration
         description: ''
-        percent: 90
-        icon: seedling
+        percent: 97
+        icon: circle-nodes
         icon_pack: fas
         
 
@@ -132,11 +132,10 @@ highlight_name: true
 
 ---
 
-I bridge the gap between science and creativity. Leveraging 10+ years of creative Advertising Industry experience, I use my expertise in Python, SQL, Tableau, data analysis, predictive modeling and more to deliver results-driven insights and compelling narratives.
+I bridge the gap between science and creativity. By leveraging my 10+ years of creative advertising experience with my expertise in Python, SQL, Tableau, data analysis, data modeling and more, I deliver results-driven insights and compelling narratives.
 
-I'd love to be part of an in-house team where I can grow, further refining and marrying my skill sets.
+I'd love to be part of an in-house team where I can grow; further refining and marrying my unique skill sets.
 
-My latest project helps NYC taxi drivers optimize their revenue-per-trip. 
-Here's the Streamlit app I built and deployed for real-time use by NYC taxi drivers: https://fareforecaster.streamlit.app/
+My latest project helps NYC taxi drivers optimize their revenue-per-trip. The result is a Streamlit app, integrated with a GradientBoostRegressor and OpenWeatherAPI, and deployed for real-time use: https://fareforecaster.streamlit.app/
 
 {style="text-align: justify;"}
