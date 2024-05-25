@@ -132,10 +132,11 @@ highlight_name: true
 
 ---
 
-A data scientist with 10+ years of Advertising Industry experience – I am a bridge between data and creativity. As a Data Scientist, I combine my decade-plus in B2B and B2C advertising with top-notch machine learning skills in Python, SQL, Tableau, predictive modeling, data analysis, and so much more.
+I bridge the gap between science and creativity. Leveraging 10+ years of creative Advertising Industry experience, I use my expertise in Python, SQL, Tableau, data analysis, predictive modeling and more to deliver results-driven insights and compelling narratives.
 
-Bring me onto your in-house team and together we'll leverage data-driven insights to dominate the industry.
+I'd love to be part of an in-house team where I can grow, further refining and marrying my skill sets.
 
-Check out the Streamlit app I built that can predict where the highest taxi fare will be in any given NYC borough, at any minute: https://fareforecaster.streamlit.app/
+My latest project helps NYC taxi drivers optimize their revenue-per-trip. 
+Here's the Streamlit app I built and deployed for real-time use by NYC taxi drivers: https://fareforecaster.streamlit.app/
 
 {style="text-align: justify;"}
