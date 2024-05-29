@@ -136,6 +136,7 @@ I bridge the gap between science and creativity. By leveraging my 10+ years of c
 
 I'd love to be part of an in-house team where I can grow; further refining and marrying my unique skill sets.
 
-My latest project helps NYC taxi drivers optimize their revenue-per-trip. The result is a Streamlit app, integrated with a GradientBoostRegressor and OpenWeatherAPI, and deployed for real-time use: https://fareforecaster.streamlit.app/
+**My latest project helps NYC taxi drivers optimize their revenue-per-trip. 
+Check it out here: https://datadillon.netlify.app/project/taxi/**
 
 {style="text-align: justify;"}

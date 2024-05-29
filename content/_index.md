@@ -42,14 +42,35 @@ sections:
       title: 👋 Hi, there! I'm Dillon 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
+  - block: portfolio
+    id: projects
     content:
-      title: Super Powers
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
+      title: Projects
+      filters:
+        folders:
+          - project
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      default_button_index: 0
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
+      # buttons:
+      #   - name: All
+      #     tag: '*'
+      #   - name: NLP
+      #     tag: NLP
+      #   - name: Time Series
+      #     tag: time
+      #   - name: Neural Networks
+      #     tag: NN
     design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
   - block: experience
     content:
       title: Experience
@@ -159,6 +180,14 @@ sections:
           url: ''
     design:
       columns: '2'
+  - block: skills
+    content:
+      title: Super Powers
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '2'
   # - block: collection
   #   id: posts
   #   content:
@@ -186,35 +215,7 @@ sections:
   #     # Choose a layout view
   #     view: compact
   #     columns: '2'
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
-      filters:
-        folders:
-          - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      # buttons:
-      #   - name: All
-      #     tag: '*'
-      #   - name: NLP
-      #     tag: NLP
-      #   - name: Time Series
-      #     tag: time
-      #   - name: Neural Networks
-      #     tag: NN
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+  
   # - block: markdown
   #   content:
   #     title: Gallery
