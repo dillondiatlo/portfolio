@@ -134,7 +134,7 @@ highlight_name: true
 
 I bridge the gap between science and creativity. With over a decade in creative advertising and deep expertise in Python, SQL, Tableau, and data analytics, I transform complex data into actionable insights and captivating stories.
 
-I'm eager to elevate our work by seamlessly blending my analytical and creative expertise, to drive innovation and deliver transformative growth.
+I'm eager to join a team and elevate our work by seamlessly blending my analytical and creative expertise to drive innovation and deliver transformative growth.
 
 **My latest project optimizes operations and ROI in real-time for NYC taxi drivers. 
 Take a look: https://datadillon.netlify.app/project/taxi/**
